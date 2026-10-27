@@ -1,0 +1,4 @@
+month,order_id,customer_id,amount
+January,1,101,500.0
+January,2,102,600.0
+January,3,101,700.0

@@ -1,0 +1,6 @@
+department,employee_count,average_salary,total_salary
+Finance,3,74000.0,222000.0
+HR,3,43666.666666666664,131000.0
+IT,8,90250.0,722000.0
+Marketing,2,62000.0,124000.0
+Sales,4,39500.0,158000.0

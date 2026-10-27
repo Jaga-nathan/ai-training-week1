@@ -1,0 +1,13 @@
+# Virtual environment and secrets
+.venv/
+venv/
+.env
+.env.*
+# Python and Jupyter caches
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
